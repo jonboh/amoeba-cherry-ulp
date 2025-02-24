@@ -1,0 +1,3 @@
+[submodule "Cherry_MX_ULP"]
+	path = Cherry_MX_ULP
+	url = git@github.com:pashutk/Cherry_MX_ULP.git
